@@ -71,11 +71,11 @@ Setup Instructions :
 
 2. Install Dependencies
 
-   # Frontend
+   Frontend
    cd client
    npm install
 
-   # Backend
+   Backend
    cd ../server
    npm install
 
@@ -92,11 +92,11 @@ Setup Instructions :
 
 5. Run the Application
 
-   # Backend
+   Backend
    cd server
    npm start
 
-   # Frontend
+   Frontend
    cd ../client
    npm start
 
